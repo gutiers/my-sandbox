@@ -1,1 +1,8 @@
-This is a demo repository for ... .. .. 
+# Sandbox
+
+Run the following commands to start Jupyter:
+
+```
+source ./myenvironment/bin/activate
+jupyter notebook
+```
