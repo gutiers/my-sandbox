@@ -1,4 +1,4 @@
 #!/bin/bash
 
 source ./myenvironment/bin/activate
-jupyter notebook
+./myenvironment/bin/jupyter notebook
